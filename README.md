@@ -10,6 +10,16 @@ We are a technology company first, but with a major focus on consumer well-being
 # Overview
 Omnifood is astatic website made using HTML and CSS.
 
+## Key Specialties
+- Convenient CSS
+- BEM Methodology
+- Custom grids
+  - variables
+  - nesting
+- iconfont integration
+- Responsive layout
+  - grid and flexbox layouts, combined with media queries.
+ 
 ## Convenient CSS
 multiple stylesheet files, for separate responsibilities:
 - general
@@ -24,16 +34,6 @@ multiple stylesheet files, for separate responsibilities:
   - global layout
   - sections
   - header & footer
-
-## Key Specialties
-- Convenient CSS
-- BEM Methodology
-- Custom grids
-  - variables
-  - nesting
-- iconfont integration
-- Responsive layout
-  - grid and flexbox layouts, combined with media queries.
 
 #### Acknowlegment
 **this project is implemented by Alexei Plokhikh for practice. and is a part of a [UDEMY Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3). Original design and idea belong to [Jonas Schmedtmann](https://jonas.io/)**
