@@ -8,7 +8,7 @@ We are a technology company first, but with a major focus on consumer well-being
 ---
 
 # Overview
-Omnifood is astatic website made using HTML and CSS.
+Omnifood is a static website made using HTML and CSS.
 
 ## Key Specialties
 - Convenient CSS
