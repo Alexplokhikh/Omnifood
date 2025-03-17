@@ -2,6 +2,7 @@
 a fictional Food delivery company landing page.
 
 #### See [Live demo](https://alexplokhikh.github.io/Omnifood/)
+![omnifood-home](https://github.com/user-attachments/assets/182dfa57-b8f1-4872-a730-cb1a645c4720)
 
 ## About Omnifood
 
@@ -10,17 +11,19 @@ We are a technology company first, but with a major focus on consumer well-being
 ---
 
 # Overview
-Omnifood is a static website made using HTML and CSS.
+Omnifood is a responsive static website made using HTML and CSS.
+![omnifood-responsive](https://github.com/user-attachments/assets/c53b4ae6-0e16-42d1-a8dc-156e78e9be0e)
+
 
 ## Key Specialties
+- Responsive layout
+  - grid and flexbox layouts, combined with media queries.
 - Convenient CSS
 - BEM Methodology
 - Custom grids
   - variables
   - nesting
 - iconfont integration
-- Responsive layout
-  - grid and flexbox layouts, combined with media queries.
 - Javascript
   - update current year display using Date library.
   - sticky navigation implementation
